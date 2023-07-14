@@ -1,0 +1,1 @@
+npm install express http socket.io path mysql cors bcrypt body-parser cookie-parser express-session
